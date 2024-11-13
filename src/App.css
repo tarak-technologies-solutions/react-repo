@@ -61,3 +61,6 @@ ul{
  .color-word{
   color: #0b0b0a;
  }
+.bullet{
+  list-style-type: none;
+}
